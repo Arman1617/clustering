@@ -18,7 +18,7 @@ This repo compares KMeans, Hierarchical Clustering, and MeanShift on the Wine da
 ![KMeans Silhouette]( images/kmeans.png)
 
 #### Calinski–Harabasz Score  
-![KMeans Calinski-Harabasz](images/kmeansc.png)
+![KMeans Calinski-Harabasz](images/kmeans-c.png)
 
 #### Davies–Bouldin Score  
 ![KMeans Davies-Bouldin](images/kmeansdavid.png)
